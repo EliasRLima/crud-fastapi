@@ -10,3 +10,9 @@ Funcoes:
  - Post
  - Put
  - Delete
+
+</br>
+
+Inicio
+ - uvicorn api:app --reload
+ - http://127.0.0.1:8000/docs
